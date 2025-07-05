@@ -1,4 +1,4 @@
-package com.mycompany.analista;
+package com.mycompany.diplomata;
 
 import io.github.guisso.meleeinterface.Decision;
 import io.github.guisso.meleeinterface.IPlayer;
